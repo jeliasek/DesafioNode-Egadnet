@@ -12,8 +12,6 @@
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-- [Desenvolvedores](#desenvolvedores)
-
 ## Descrição do projeto 
 <p align="justify">
 

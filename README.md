@@ -23,17 +23,18 @@
 
 ## Ferramentas e Bibliotecas Utilizadas
 
-:triangular_flag_on_post: Node.Js
+<a href="https://nodejs.org/en/" target="_blank">:triangular_flag_on_post: Node.Js</a>
 
-:triangular_flag_on_post: Express
+<a href="http://expressjs.com/pt-br/" target="_blank">:triangular_flag_on_post: Express</a>
 
-:triangular_flag_on_post: Axios
+<a href="https://axios-http.com/ptbr/docs/intro" target="_blank">:triangular_flag_on_post: Axios</a>
 
-:triangular_flag_on_post: Redis
+<a href="https://redis.io/" target="_blank">:triangular_flag_on_post: Redis</a>
 
-:triangular_flag_on_post: JWT
+<a href="https://jwt.io/" target="_blank">:triangular_flag_on_post: JWT</a>
 
-:triangular_flag_on_post: ESLint
+<a href="https://eslint.org/" target="_blank">:triangular_flag_on_post: ESLint</a>
+
 
 ## Casos de Teste Previstos
 

@@ -62,4 +62,4 @@ Pré Requisito(s): Estar autenticado, ou seja, possuir um token válido.
 
 ## Comprovação dos Requisitos
 
-- [Req001 - Buscar CEP da API ViaCEP]
+- [Acesse aqui](./Egadnet.pdf)

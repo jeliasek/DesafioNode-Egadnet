@@ -63,3 +63,11 @@ Pré Requisito(s): Estar autenticado, ou seja, possuir um token válido.
 ## Comprovação dos Requisitos
 
 - [Acesse aqui](./Egadnet.pdf)
+
+## Abrir e Rodar o Projeto
+
+- Realizar o `Git clone` do repositório
+- Executar `npm install`
+- Inicializar o Redis `redis-server start`. Caso esteja em ambiente Windows, executar via Docker ou WSL.
+- Executar `npm run dev` para inicializar o servidor.
+- Realizar as requisições.
